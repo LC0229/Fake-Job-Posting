@@ -1,5 +1,7 @@
-# Large data files
+# Large data files (original CSV too large for GitHub)
 rating.csv
+# But allow the zipped version
+!rating.csv.zip
 
 # Python
 __pycache__/
