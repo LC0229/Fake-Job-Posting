@@ -11,6 +11,10 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Model checkpoints and training outputs
+distilbert_anime_type/
+logs/
+
 # Environment
 .env
 venv/
